@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Demo
 
-[Demo Url]([url](https://angular-job-search.vercel.app/jobs))
+[Demo Url](https://angular-job-search.vercel.app/jobs).
 
 ## Running unit tests
 
